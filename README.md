@@ -1,4 +1,4 @@
-# Exercise Tracker!
+# Exercise Tracker 🏋️
 
 With this app you can keep track of the exercise you have completed.
 
